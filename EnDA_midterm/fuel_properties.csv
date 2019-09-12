@@ -1,0 +1,12 @@
+energy_name,energy_description,dol_per_mmBtu,kg_CO2_per_mmBtu
+SUB,Subbituminous Coal,1.5,97.2
+NG,Natural Gas,3.25,53.1
+BIT,Bituminous Coal,2.5,93.3
+BLQ,Wood / Wood Waste,4,25
+NUC,Uranium,1.25,0
+DFO,Distillate Fuel Oil,2.037,73.2
+WDS,Wood / Wood Waste,4.25,25
+LIG,Lignite Coal,2.35,97.7
+RC,Refined Coal,2.5,93.3
+RFO,Residual Fuel Oil,1.25,78.8
+WC,Waste Coal,2.5,93.3
